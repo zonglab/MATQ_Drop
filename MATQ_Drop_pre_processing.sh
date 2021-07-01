@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# set max wallclock time
-#PBS -l walltime=72:00:00
-#PBS -l nodes=1:ppn=4
-# set name of job
-#PBS -N AXX
 
 sample=AXX
 seqdir=BXX
