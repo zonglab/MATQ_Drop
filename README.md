@@ -13,6 +13,4 @@ MATQ_Drop_Barcode_count.py -- used for cell barcode assignment for each read
 UMI_Gene_count.py -- used for counting the read, UMI, and detected gene numbers per cell barcode
 
 
-Barcode reference file:
-
-barcode144x144.dat
+Barcode reference file: barcode144x144.dat
